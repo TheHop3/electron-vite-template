@@ -1,0 +1,15 @@
+node_modules
+dist
+out
+.gitignore
+.husky
+.vscode
+.idea
+*.sh
+*.md
+
+src/renderer/index.html
+
+.eslintrc.cjs
+.prettierrc.cjs
+.stylelintrc.cjs
